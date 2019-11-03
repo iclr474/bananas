@@ -1,0 +1,8 @@
+*.pyc
+*/__pycache__
+*.*~
+*.out
+*.pkl
+*.ipynb_checkpoints/
+*log.txt
+*nasbench_only108.tfrecord
